@@ -12,14 +12,14 @@ A neural network implementation using TensorFlow to predict house prices based o
 ---
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Model Architecture](#model-architecture)
-- [Dataset](#dataset)
-- [Training Process](#training-process)
-- [Results](#results)
-- [Installation & Usage](#installation--usage)
-- [Key Learnings](#key-learnings)
-- [Future Improvements](#future-improvements)
+- [Project Overview](#-project-overview)
+- [Model Architecture](#-model-architecture)
+- [Dataset](#-dataset)
+- [Training Process](#-training-process)
+- [Results](#-results)
+- [Installation & Usage](#-installation--usage)
+- [Key Learnings](#-key-learnings)
+- [Future Improvements](#-future-improvements)
 
 ---
 
