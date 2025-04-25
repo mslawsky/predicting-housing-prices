@@ -7,7 +7,7 @@
 
 A neural network implementation using TensorFlow to predict house prices based on the number of bedrooms. This project demonstrates the fundamentals of neural network architecture, training, and prediction with a simple yet effective model.
 
-![Housing Price Prediction Model](/assets/housing-model-visualization.png)
+![Housing Price Prediction Model](housing-model-visualization.png)
 
 ---
 
@@ -105,7 +105,7 @@ def train_model():
 
 **Training Visualization:**
 
-![Training Loss Curve](/assets/training-loss-curve.png)
+![Training Loss Curve](training-loss-curve.png)
 
 The graph shows rapid convergence of the loss function, with the model quickly learning the linear relationship between bedrooms and price.
 
@@ -126,7 +126,7 @@ The model demonstrates excellent predictive performance, even for values outside
 
 **Prediction Visualization:**
 
-![Price Predictions](/assets/price-predictions.png)
+![Price Predictions](price-predictions.png)
 
 ---
 
