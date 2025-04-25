@@ -191,10 +191,11 @@ While this model successfully learns the target relationship, several enhancemen
 
 ## 📫 Contact
 
-- 📧 **Email**: [melissa@melissaslawsky.com](mailto:melissa@melissaslawsky.com)
-- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/melissaslawsky/)
-- 💻 **GitHub**: [GitHub Profile](https://github.com/mslawsky)
-- 📊 **Tableau Portfolio**: [Tableau Public](https://public.tableau.com/app/profile/melissa.slawsky1925/vizzes)
+For inquiries about this analysis:
+- [LinkedIn Profile](https://www.linkedin.com/in/melissaslawsky/)
+- [Client Results](https://melissaslawsky.com/portfolio/)
+- [Tableau Portfolio](https://public.tableau.com/app/profile/melissa.slawsky1925/vizzes)
+- [Email](mailto:melissa@melissaslawsky.com)
 
 ---
 
